@@ -10,14 +10,14 @@ Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 The goal of this experiment is to design and develop an AI-powered chatbot that can handle customer inquiries, provide support, and improve customer experience in a retail environment. Create prompts using various AI prompting techniques to guide your experiment, data collection, analysis, and report creation
 
 ## 1. Scenario Design & Data Collection
- 1. Technique: Role Prompting
+ # 1. Technique: Role Prompting
 Prompt Example:
 
 You are a retail customer experiencing difficulty tracking your order. Ask the chatbot for help in a polite but urgent tone.
 
 Purpose: Simulate varied customer emotions and tones for chatbot training data.
 
- 2. Technique: Few-Shot Prompting
+ # 2. Technique: Few-Shot Prompting
 Prompt Example:
 
 Customer: “Where’s my order?”
